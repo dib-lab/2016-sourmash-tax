@@ -39,19 +39,18 @@ def task_build_scaled_minhash(output_dir, input_filenames, ksize=31):
 
     def retrieve_num_kmers():
         CMD = '{0}/sourmash compute -k {ksize} --name combined -o {1} {2}'
-
-        with open(os.path.join(output_dir, 'kmers.txt'), 'rt') as fp:
-            n = int(fp.readline().split()[0])
-
-        n_to_calc = float(n) * 1000 / 5e6
-
         CMD = CMD.format(SOURMASH_LOCATION,
                          output_file,
                          " ".join(input_filenames),
                          ksize=ksize)
+
+        # adjust the size of the minhash by the # of k-mers
+        with open(os.path.join(output_dir, 'kmers.txt'), 'rt') as fp:
+            n = int(fp.readline().split()[0])
+
+        n_to_calc = float(n) * 1000 / 5e6
         CMD += ' -n {:.0f}'.format(int(n_to_calc))
 
-        open('/tmp/zzz', 'w').write(CMD)
         return CMD
 
     targets = [ output_file ]
