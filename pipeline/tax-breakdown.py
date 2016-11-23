@@ -31,7 +31,8 @@ def main():
     tasks = []
     tasks.append(task_calc_unique_kmers(output_dir, args.inp_fasta))
     tasks.append(task_build_scaled_minhash(output_dir, args.inp_fasta))
-    tasks.append(task_search_index(output_dir, args.sbt_index, args.inp_fasta))
+
+    #tasks.append(task_search_index(output_dir, args.sbt_index, args.inp_fasta))
 
     if args.clean:
         run_tasks(tasks, ['clean'])

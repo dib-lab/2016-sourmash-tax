@@ -6,7 +6,8 @@ import shutil
 from doit_utils import make_task
 
 from doit.tools import run_once
-from doit.task import clean_targets
+from doit.task import clean_targets, result_dep
+from doit.action import CmdAction
 
 
 SOURMASH_LOCATION='../../sourmash'
@@ -34,17 +35,24 @@ def task_calc_unique_kmers(output_dir, inp_filenames, ksize=31):
 
 @make_task
 def task_build_scaled_minhash(output_dir, input_filenames, ksize=31):
-    def retrieve_num_kmers():
-        open('/tmp/xxx', 'wt').write('foo')
-        return 'touch /tmp/zzz'
-        
-    CMD = '{0}/sourmash compute -k {ksize} --name combined -o {1} {2}'
-
     output_file = '{}/combined.sig'.format(output_dir)
-    CMD = CMD.format(SOURMASH_LOCATION,
-                     output_file,
-                     " ".join(input_filenames),
-                     ksize=ksize)
+
+    def retrieve_num_kmers():
+        CMD = '{0}/sourmash compute -k {ksize} --name combined -o {1} {2}'
+
+        with open(os.path.join(output_dir, 'kmers.txt'), 'rt') as fp:
+            n = int(fp.readline().split()[0])
+
+        n_to_calc = float(n) * 1000 / 5e6
+
+        CMD = CMD.format(SOURMASH_LOCATION,
+                         output_file,
+                         " ".join(input_filenames),
+                         ksize=ksize)
+        CMD += ' -n {:.0f}'.format(int(n_to_calc))
+
+        open('/tmp/zzz', 'w').write(CMD)
+        return CMD
 
     targets = [ output_file ]
 
@@ -54,7 +62,7 @@ def task_build_scaled_minhash(output_dir, input_filenames, ksize=31):
     deps = list(input_filenames)
 
     return {'name': name,
-            'actions': [retrieve_num_kmers, CMD],
+            'actions': [CmdAction(retrieve_num_kmers)],
             'targets': targets,
             'uptodate': [run_once],
             'file_dep': deps,
