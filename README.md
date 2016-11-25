@@ -87,7 +87,8 @@ A fake metagenome:
 
 ## Guide to input sequences
 
-Main point: the input sequences need to be error trimmed.
+Main point: if you are inputting FASTQ, the input sequences need to be
+error trimmed (e.g. with `trim-low-abund.py`).
 
 Also note that currently *abundance* is not taken into account, and
 the output *is* weighted by size of genome (which is easily corrected
