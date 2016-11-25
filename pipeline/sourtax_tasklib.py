@@ -85,10 +85,11 @@ def task_sbt_gather(output_dir, sbt_index, threshold=0.001):
     Run 'sourmash sbt_gather' and save the output.
     """
     CMD = '{0}/sourmash sbt_gather {1} {2}/combined.sig --threshold={3}'
-    CMD += ' -o {2}/report.txt > /dev/tty'
+    CMD += ' -o {2}/report.txt --csv {2}/report.csv > /dev/tty'
     CMD = CMD.format(SOURMASH_LOCATION, sbt_index, output_dir, threshold)
 
-    targets = [ '{}/report.txt'.format(output_dir) ]
+    targets = [ '{}/report.txt'.format(output_dir),
+                '{}/report.csv'.format(output_dir) ]
     file_deps = [ '{}/combined.sig'.format(output_dir) ]
 
     name = 'task_sbt_gather<{0}.{1}>'.format(output_dir, sbt_index)
