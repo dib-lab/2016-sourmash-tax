@@ -6,34 +6,34 @@ Taxonomic breakdown of metagenomes using sourmash.
 
 Starting from a blank Ubuntu 15.10 install, run:
 
-   sudo apt-get update && sudo apt-get -y install python3.5-dev \
+    sudo apt-get update && sudo apt-get -y install python3.5-dev \
         python3-virtualenv python3-matplotlib python3-numpy g++ make
 
 then create a new virtualenv, :
 
-   cd
-   python3.5 -m virtualenv env -p python3.5 --system-site-packages
-   . env/bin/activate
+    cd
+    python3.5 -m virtualenv env -p python3.5 --system-site-packages
+    . env/bin/activate
 
 You'll need to install a few things, including a recent version of khmer:
 
-   pip install screed pytest PyYAML doit
-   pip install git+https://github.com/dib-lab/khmer.git
+    pip install screed pytest PyYAML doit
+    pip install git+https://github.com/dib-lab/khmer.git
 
 Next, grab the sbt_search branch of sourmash:
 
-   cd
-   git clone https://github.com/dib-lab/sourmash.git -b sbt_search
+    cd
+    git clone https://github.com/dib-lab/sourmash.git -b sbt_search
 
 Build and install it:
 
-   cd sourmash && make install
+    cd sourmash && make install
 
 Next, grab this repo:
 
-   cd
-   git clone https://github.com/dib-lab/2016-sourmash-tax.git
-   
+    cd
+    git clone https://github.com/dib-lab/2016-sourmash-tax.git
+
 The `sourtax.py` script will now be in
 `~/2016-sourmash-tax/pipeline/sourtax.py`.  See the demo section below.
 
@@ -69,7 +69,7 @@ First, create a database:
     cd
     mkdir demo
     cd demo
-    
+
     sourmash compute --singleton --with-cardinality ~/2016-sourmash-tax/pipeline/data/15genome.fa.gz
     sourmash sbt_index db 15genome.fa.gz.sig
 
@@ -80,7 +80,7 @@ Now, take an input sequence and break it down:
 A single genome:
 
     ~/2016-sourmash-tax/pipeline/sourtax.py db acido.fa.gz -o acido
-    
+
 A fake metagenome:
 
     ~/2016-sourmash-tax/pipeline/sourtax.py db 15genome.fa.gz -o 15genome
