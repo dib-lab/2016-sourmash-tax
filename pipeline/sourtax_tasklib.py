@@ -14,7 +14,7 @@ from doit.task import clean_targets, result_dep
 from doit.action import CmdAction
 
 
-SOURMASH_LOCATION='../../sourmash'
+SOURMASH_LOCATION='../../sourmash/'
 
 
 @make_task
@@ -48,7 +48,7 @@ def task_build_scaled_minhash(output_dir, input_filenames, ksize=31):
     output_file = '{}/combined.sig'.format(output_dir)
 
     def retrieve_num_kmers():
-        CMD = '{0}/sourmash compute -k {ksize} --name combined -o {1} {2}'
+        CMD = '{0}sourmash compute -k {ksize} --name combined -o {1} {2}'
         CMD += ' --with-cardinality'
         CMD = CMD.format(SOURMASH_LOCATION,
                          output_file,
@@ -84,7 +84,7 @@ def task_sbt_gather(output_dir, sbt_index, threshold=0.001):
     """
     Run 'sourmash sbt_gather' and save the output.
     """
-    CMD = '{0}/sourmash sbt_gather {1} {2}/combined.sig --threshold={3}'
+    CMD = '{0}sourmash sbt_gather {1} {2}/combined.sig --threshold={3}'
     CMD += ' -o {2}/report.txt --csv {2}/report.csv > /dev/tty'
     CMD = CMD.format(SOURMASH_LOCATION, sbt_index, output_dir, threshold)
 
