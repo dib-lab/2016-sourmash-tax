@@ -14,7 +14,7 @@ from doit.task import clean_targets, result_dep
 from doit.action import CmdAction
 
 
-SOURMASH_LOCATION='../../sourmash/'
+SOURMASH_LOCATION=''
 
 
 @make_task
