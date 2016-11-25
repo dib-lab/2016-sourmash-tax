@@ -5,7 +5,7 @@ Get a taxonomic breakdown of a FASTQ/FASTA file using minhashes.
 import os, sys
 
 from doit_utils import run_tasks
-from spg_tasklib import *
+from sourtax_tasklib import *
 
 
 def main():
@@ -26,18 +26,19 @@ def main():
     try:
         os.mkdir(output_dir)
     except OSError:
-        print('WARNING: output dir {} already exists.', file=sys.stderr)
+        pass
 
     tasks = []
     tasks.append(task_calc_unique_kmers(output_dir, args.inp_fasta))
     tasks.append(task_build_scaled_minhash(output_dir, args.inp_fasta))
 
-    #tasks.append(task_search_index(output_dir, args.sbt_index, args.inp_fasta))
+    tasks.append(task_sbt_gather(output_dir, args.sbt_index))
 
     if args.clean:
         run_tasks(tasks, ['clean'])
     else:
         run_tasks(tasks, ['run'])
+        print('\nResults are in {}/report.txt\n'.format(output_dir))
 
 
 if __name__ == '__main__':

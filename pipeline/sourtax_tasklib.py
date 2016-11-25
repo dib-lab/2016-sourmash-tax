@@ -1,3 +1,7 @@
+"""
+pydoit tasks for sourtax.
+"""
+
 import sys
 import os.path
 import glob
@@ -15,6 +19,9 @@ SOURMASH_LOCATION='../../sourmash'
 
 @make_task
 def task_calc_unique_kmers(output_dir, inp_filenames, ksize=31):
+    """
+    Calculate the total number of unique k-mers across all inp_filenames.
+    """
     CMD_unique_kmers = "unique-kmers.py -k {ksize} -R {0}/kmers.txt {1}"
     
     CMD_unique_kmers = CMD_unique_kmers.format(output_dir,
@@ -35,6 +42,9 @@ def task_calc_unique_kmers(output_dir, inp_filenames, ksize=31):
 
 @make_task
 def task_build_scaled_minhash(output_dir, input_filenames, ksize=31):
+    """
+    Build a MinHash with the number of hashes scaled to input cardinality.
+    """
     output_file = '{}/combined.sig'.format(output_dir)
 
     def retrieve_num_kmers():
@@ -67,3 +77,25 @@ def task_build_scaled_minhash(output_dir, input_filenames, ksize=31):
             'uptodate': [run_once],
             'file_dep': deps,
             'clean': [clean_targets]}
+
+
+@make_task
+def task_sbt_gather(output_dir, sbt_index, threshold=0.001):
+    """
+    Run 'sourmash sbt_gather' and save the output.
+    """
+    CMD = '{0}/sourmash sbt_gather {1} {2}/combined.sig --threshold={3}'
+    CMD += ' -o {2}/report.txt > /dev/tty'
+    CMD = CMD.format(SOURMASH_LOCATION, sbt_index, output_dir, threshold)
+
+    targets = [ '{}/report.txt'.format(output_dir) ]
+    file_deps = [ '{}/combined.sig'.format(output_dir) ]
+
+    name = 'task_sbt_gather<{0}.{1}>'.format(output_dir, sbt_index)
+
+    return dict(name=name,
+                actions=[CMD],
+                targets=targets,
+                uptodate=[run_once],
+                file_dep=file_deps,
+                clean=[clean_targets])
