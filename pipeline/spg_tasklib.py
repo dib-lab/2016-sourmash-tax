@@ -39,6 +39,7 @@ def task_build_scaled_minhash(output_dir, input_filenames, ksize=31):
 
     def retrieve_num_kmers():
         CMD = '{0}/sourmash compute -k {ksize} --name combined -o {1} {2}'
+        CMD += ' --with-cardinality'
         CMD = CMD.format(SOURMASH_LOCATION,
                          output_file,
                          " ".join(input_filenames),
