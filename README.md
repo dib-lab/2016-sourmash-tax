@@ -1,13 +1,11 @@
-#
+###To build this container yourself do the following
 
-#To build this container yourself do the following
-
-#Make directory for dockerfile 
+###Make directory for dockerfile 
 
 	mkdir "path"/make_sourmash
 	cd "path"/make_sourmash
 	
-#Make docker file 
+###Make docker file 
 
 	cat <<EOF > Dockerfile
 	FROM ubuntu:15.10
@@ -23,22 +21,22 @@
 		python setup.py install 
 	EOF
 	
-#Check it out 
+###Check it out 
 
 	cat Dockerfile
 
-#Build docker image 
+###Build docker image 
 
 	docker build -t sourmash_ctr .
 
-#Test it 
+###Test it 
 
 	docker run -it sourmash_ctr sourmash compute 
 	
-#Move into directory for assembly
+###Move into directory for assembly
 	
 	cd "path to data"
 
-#Link data to docker image and run 
+###Link data to docker image and run 
 
 	docker run -it sourmash_ctr sourmash compute -h

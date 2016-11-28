@@ -6,8 +6,8 @@
 
 #Make directory for dockerfile 
 
-	mkdir "path"/make_sourmash
-	cd "path"/make_sourmash
+	mkdir "path"/make_khmer
+	cd "path"/make_khmer
 	
 #Make docker file 
 
@@ -42,7 +42,7 @@
 
 #Link data to docker image and run 
 
-	docker run -v "path to data":/mydata -it sourmash_ctr
+	docker run -v "path to data":/mydata -it khmer_ctr
 	
 #To make container available for public use 
 
