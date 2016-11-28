@@ -42,3 +42,19 @@
 #Link data to docker image and run 
 
 	docker run -it sourmash_ctr sourmash compute -h
+	
+#Move into directory for assembly
+	
+	cd "path to data"
+
+#Link data to docker image and run 
+
+	docker run -v "path to data":/mydata -it sourmash_ctr
+	
+#To make container available for public use 
+
+	docker login 
+
+	docker build -t brooksph/khmer .
+
+	docker push brooksph/khmer 
