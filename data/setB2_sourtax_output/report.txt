@@ -1,0 +1,321 @@
+Composition:
+0.03 ENA|CP000473|CP000473.1 Solibacter usitatus Ellin6076, complete genome.
+0.02 ENA|CP003364|CP003364.1 Singulisphaera acidiphila DSM 18658, complete genome.
+0.02 ENA|CP003130|CP003130.1 Granulicella mallensis MP5ACTX8, complete genome.
+0.02 ENA|CP001032|CP001032.1 Opitutus terrae PB90-1, complete genome.
+0.02 ENA|CP000360|CP000360.1 Candidatus Koribacter versatilis Ellin345, complete genome.
+0.02 ENA|CP002467|CP002467.1 Terriglobus saanensis SP1PR4, complete genome.
+0.02 ENA|BX119912|BX119912.1 Rhodopirellula baltica SH 1 complete genome
+0.02 ENA|CP003379|CP003379.1 Terriglobus roseus DSM 18391, complete genome.
+0.01 ENA|CP001848|CP001848.1 Pirellula staleyi DSM 6068, complete genome.
+0.01 ENA|CP002480|CP002480.1 Granulicella tundricola MP5ACTX9, complete genome.
+0.01 ENA|CP000909|CP000909.1 Chloroflexus aurantiacus J-10-fl, complete genome.
+0.01 ENA|CP001364|CP001364.1 Chloroflexus sp. Y-400-fl, complete genome.
+0.01 ENA|CP001472|CP001472.1 Acidobacterium capsulatum ATCC 51196, complete genome.
+0.01 ENA|FP929003|FP929003.1 Candidatus Nitrospira defluvii chromosome, complete genome.
+0.01 ENA|AP009153|AP009153.1 Gemmatimonas aurantiaca T-27 DNA, complete genome.
+0.01 ENA|CP003301|CP003301.1 Escherichia coli O104:H4 str. 2009EL-2071, complete genome.
+0.01 ENA|CP002546|CP002546.1 Planctomyces brasiliensis DSM 5305, complete genome.
+0.01 ENA|CP001744|CP001744.1 Planctomyces limnophilus DSM 3776, complete genome.
+0.01 ENA|CP002516|CP002516.1 Escherichia coli KO11, complete genome.
+0.01 ENA|CP001589|CP001589.1 Yersinia pestis D182038, complete genome.
+0.01 ENA|AE017042|AE017042.1 Yersinia pestis biovar Microtus str. 91001, complete genome.
+0.01 ENA|CP002956|CP002956.1 Yersinia pestis A1122, complete genome.
+0.01 ENA|CP002729|CP002729.1 Escherichia coli UMNK88, complete genome.
+0.01 ENA|CP001998|CP001998.1 Coraliomargarita akajimensis DSM 45221, complete genome.
+0.01 ENA|FN649414|FN649414.1 Escherichia coli ETEC H10407, complete genome
+0.01 ENA|CP002614|CP002614.1 Salmonella enterica subsp. enterica serovar Typhimurium str. UK-1, complete genome.
+0.01 ENA|CP002353|CP002353.1 Isosphaera pallida ATCC 43644, complete genome.
+0.01 ENA|CP000857|CP000857.1 Salmonella enterica subsp. enterica serovar Paratyphi C strain RKS4594, complete genome.
+0.01 ENA|CP000886|CP000886.1 Salmonella enterica subsp. enterica serovar Paratyphi B str. SPB7, complete genome.
+0.01 ENA|AE017220|AE017220.1 Salmonella enterica subsp. enterica serovar Choleraesuis str. SC-B67, complete genome.
+0.01 ENA|CP001846|CP001846.1 Escherichia coli O55:H7 str. CB9615, complete genome.
+0.01 ENA|CM000789|CM000789.2 Mycobacterium tuberculosis KZN R506 chromosome, whole genome shotgun sequence.
+0.01 ENA|CP001144|CP001144.1 Salmonella enterica subsp. enterica serovar Dublin str. CT_02021853, complete genome.
+0.01 ENA|CP003900|CP003900.2 Mycobacterium bovis BCG str. Korea 1168P, complete genome.
+0.01 ENA|HE616528|HE616528.1 Shigella sonnei 53G main chromosome, complete genome
+0.01 ENA|CP001164|CP001164.1 Escherichia coli O157:H7 str. EC4115, complete genome.
+0.01 ENA|HE608151|HE608151.1 Mycobacterium tuberculosis UT205 complete genome
+0.01 ENA|AP012306|AP012306.1 Escherichia coli str. K-12 substr. MDS42 DNA, complete genome.
+0.01 ENA|CP005386|CP005386.1 Mycobacterium tuberculosis CAS/NITR204, complete genome.
+0.01 ENA|FM200053|FM200053.1 Salmonella enterica subsp. enterica serovar Paratyphi A str. AKU_12601 complete genome, strain AKU_12601
+0.01 ENA|CP002099|CP002099.1 Salmonella enterica subsp. enterica serovar Typhi str. Ty21a, complete genome.
+0.01 ENA|CP001383|CP001383.1 Shigella flexneri 2002017, complete genome.
+0.01 ENA|CP003034|CP003034.1 Escherichia coli O7:K1 str. CE10, complete genome.
+0.01 ENA|CP002514|CP002514.1 Chloracidobacterium thermophilum B chromosome 1, complete sequence.
+0.01 ENA|CP001071|CP001071.1 Akkermansia muciniphila ATCC BAA-835, complete genome.
+0.01 ENA|CP001921|CP001921.1 Acinetobacter baumannii 1656-2, complete genome.
+0.01 ENA|CP000034|CP000034.1 Shigella dysenteriae Sd197, complete genome.
+0.01 ENA|CP000863|CP000863.1 Acinetobacter baumannii ACICU, complete genome.
+0.01 ENA|AP012342|AP012342.1 Leptospirillum ferrooxidans C2-3 DNA, complete genome.
+0.01 ENA|CP000975|CP000975.1 Methylacidiphilum infernorum V4, complete genome.
+0.01 ENA|FO203509|FO203509.1 Mycobacterium canettii CIPT 140070010 complete genome
+0.01 ENA|CP002919|CP002919.1 Leptospirillum ferriphilum ML-04, complete genome.
+0.01 ENA|CU459141|CU459141.1 Acinetobacter baumannii str. AYE, complete genome.
+0.01 ENA|CP001172|CP001172.1 Acinetobacter baumannii AB307-0294, complete genome.
+0.01 ENA|AP012338|AP012338.1 Phycisphaera mikurensis NBRC 102666 DNA, complete genome.
+0.01 ENA|CP001404|CP001404.1 Sulfolobus islandicus Y.N.15.51, complete genome.
+0.01 ENA|CP001399|CP001399.1 Sulfolobus islandicus L.S.2.15, complete genome.
+0.01 ENA|CP001403|CP001403.1 Sulfolobus islandicus Y.G.57.14, complete genome.
+0.01 ENA|CP001731|CP001731.1 Sulfolobus islandicus L.D.8.5, complete genome.
+0.01 ENA|CP000875|CP000875.1 Herpetosiphon aurantiacus DSM 785, complete genome.
+0.01 ENA|CP002426|CP002426.1 Sulfolobus islandicus HVE10/4, complete genome.
+0.01 ENA|CP001400|CP001400.1 Sulfolobus islandicus M.14.25, complete genome.
+0.01 ENA|CP002425|CP002425.1 Sulfolobus islandicus REY15A, complete genome.
+0.01 ENA|CP003928|CP003928.1 Sulfolobus islandicus LAL14/1, complete genome.
+0.01 ENA|CP001097|CP001097.1 Chlorobium limicola DSM 245, complete genome.
+0.00 ENA|CP001147|CP001147.1 Thermodesulfovibrio yellowstonii DSM 11347, complete genome.
+0.00 ENA|FQ312004|FQ312004.1 Bacteroides fragilis 638R genome.
+0.00 ENA|AP006841|AP006841.1 Bacteroides fragilis YCH46 DNA, complete genome.
+0.00 ENA|CP000804|CP000804.1 Roseiflexus castenholzii DSM 13941, complete genome.
+0.00 ENA|AP012337|AP012337.1 Caldilinea aerophila DSM 14535 = NBRC 104270 DNA, complete genome.
+0.00 ENA|CP000686|CP000686.1 Roseiflexus sp. RS-1, complete genome.
+0.00 ENA|CP001337|CP001337.1 Chloroflexus aggregans DSM 9485, complete genome.
+0.00 ENA|CP003176|CP003176.1 Brucella abortus A13334 chromosome 1, complete sequence.
+0.00 ENA|CP003862|CP003862.1 Francisella tularensis subsp. holarctica FSC200, complete genome.
+0.00 ENA|AE014291|AE014291.4 Brucella suis 1330 chromosome I, complete sequence.
+0.00 ENA|CP000437|CP000437.1 Francisella tularensis subsp. holarctica OSU18, complete genome.
+0.00 ENA|CP000125|CP000125.1 Burkholderia pseudomallei 1710b chromosome II, complete sequence.
+0.00 ENA|AP012029|AP012029.1 Anaerolinea thermophila UNI-1 DNA, complete genome.
+0.00 ENA|BX571966|BX571966.1 Burkholderia pseudomallei strain K96243, chromosome 2, complete sequence.
+0.00 ENA|CP003048|CP003048.1 Francisella tularensis TIGB03, complete genome.
+0.00 ENA|CU928158|CU928158.2 Escherichia fergusonii ATCC 35469 chromosome, complete genome
+0.00 ENA|CP001055|CP001055.1 Elusimicrobium minutum Pei191, complete genome.
+0.00 ENA|CP002419|CP002419.1 Neisseria meningitidis G2136, complete genome.
+0.00 ENA|CP002496|CP002496.1 Pseudomonas aeruginosa M18, complete genome.
+0.00 ENA|CP001235|CP001235.1 Vibrio cholerae O395 chromosome I, complete sequence.
+0.00 ENA|FM999788|FM999788.1 Neisseria meningitidis 8013, complete genome
+0.00 ENA|AM421808|AM421808.1 Neisseria meningitidis serogroup C FAM18 complete genome
+0.00 ENA|CP001561|CP001561.1 Neisseria meningitidis alpha710, complete genome.
+0.00 ENA|CP003149|CP003149.1 Pseudomonas aeruginosa DK2, complete genome.
+0.00 ENA|CP002555|CP002555.1 Vibrio cholerae LMA3894-4 chromosome I, complete sequence.
+0.00 ENA|CP004080|CP004080.1 Dehalococcoides mccartyi BTF08, complete genome.
+0.00 ENA|CP000379|CP000379.1 Burkholderia cenocepacia AU 1054 chromosome 2, complete sequence.
+0.00 ENA|CP004079|CP004079.1 Dehalococcoides mccartyi DCMB5, complete genome.
+0.00 ENA|CP001924|CP001924.1 Dehalococcoides sp. GT, complete genome.
+0.00 ENA|CP000959|CP000959.1 Burkholderia cenocepacia MC0-3 chromosome 2, complete sequence.
+0.00 ENA|CP000077|CP000077.1 Sulfolobus acidocaldarius DSM 639, complete genome.
+0.00 ENA|CP000688|CP000688.1 Dehalococcoides sp. BAV1, complete genome.
+0.00 ENA|CP001823|CP001823.1 Sphaerobacter thermophilus DSM 20745 chromosome 1, complete sequence.
+0.00 ENA|CP000526|CP000526.1 Burkholderia mallei SAVP1 chromosome I, complete sequence.
+0.00 ENA|CP002634|CP002634.1 Bacillus amyloliquefaciens LL3, complete genome.
+0.00 ENA|CP000378|CP000378.1 Burkholderia cenocepacia AU 1054 chromosome 1, complete sequence.
+0.00 ENA|CP000675|CP000675.2 Legionella pneumophila str. Corby, complete genome.
+0.00 ENA|AP009510|AP009510.1 Uncultured Termite group 1 bacterium phylotype Rs-D17 DNA, complete genome.
+0.00 ENA|AE016879|AE016879.1 Bacillus anthracis str. Ames, complete genome.
+0.00 ENA|AP012601|AP012601.1 Helicobacter pylori OK310 DNA, complete genome.
+0.00 ENA|AP011943|AP011943.1 Helicobacter pylori F32 DNA, complete genome.
+0.00 ENA|CP001800|CP001800.1 Sulfolobus solfataricus 98/2, complete genome.
+0.00 ENA|CP003419|CP003419.1 Helicobacter pylori XZ274, complete genome.
+0.00 ENA|CP002331|CP002331.1 Helicobacter pylori India7, complete genome.
+0.00 ENA|CP001072|CP001072.2 Helicobacter pylori Shi470, complete genome.
+0.00 ENA|CP001275|CP001275.1 Thermomicrobium roseum DSM 5159, complete genome.
+0.00 ENA|CP003308|CP003308.1 Rickettsia philipii str. 364D, complete genome.
+0.00 ENA|CP002571|CP002571.1 Helicobacter pylori 2017, complete genome.
+0.00 ENA|CP003306|CP003306.1 Rickettsia rickettsii str. Colombia, complete genome.
+0.00 ENA|CP002983|CP002983.1 Helicobacter pylori SNT49, complete genome.
+0.00 ENA|AP011533|AP011533.1 Rickettsia japonica YH DNA, complete genome.
+0.00 ENA|CP001612|CP001612.1 Rickettsia africae ESF-5, complete genome.
+0.00 ENA|CP002953|CP002953.1 Helicobacter pylori ELS37, complete genome.
+0.00 ENA|BA000040|BA000040.2 Bradyrhizobium diazoefficiens USDA 110 DNA, complete genome.
+0.00 ENA|CP003838|CP003838.1 Bacillus methylotrophicus AS43.3, complete genome.
+0.00 ENA|FR746099|FR746099.1 Haloquadratum walsbyi C23 complete genome
+0.00 ENA|AM180088|AM180088.1 Haloquadratum walsbyi DSM 16790 complete genome
+0.00 ENA|AP012206|AP012206.1 Bradyrhizobium japonicum USDA 6 DNA, complete genome.
+0.00 ENA|CP000912|CP000912.1 Brucella suis ATCC 23445 chromosome II, complete sequence.
+0.00 ENA|CP000672|CP000672.1 Haemophilus influenzae PittGG, complete genome.
+0.00 ENA|CP003329|CP003329.1 Bacillus subtilis subsp. subtilis 6051-HGW, complete genome.
+0.00 ENA|FQ670178|FQ670178.1 Haemophilus influenzae F3031 complete genome
+0.00 ENA|CP002558|CP002558.1 Francisella cf. novicida 3523, complete genome.
+0.00 ENA|CP002084|CP002084.1 Dehalogenimonas lykanthroporepellens BL-DC-9, complete genome.
+0.00 ENA|CP004405|CP004405.1 Bacillus subtilis subsp. subtilis str. BAB-1, complete genome.
+0.00 ENA|CP001827|CP001827.1 Dehalococcoides sp. VS, complete genome.
+0.00 ENA|CP000027|CP000027.1 Dehalococcoides ethenogenes 195, complete genome.
+0.00 ENA|AE010299|AE010299.1 Methanosarcina acetivorans str. C2A, complete genome.
+0.00 ENA|CP000671|CP000671.1 Haemophilus influenzae PittEE, complete genome.
+0.00 ENA|CP003492|CP003492.1 Bacillus sp. JS, complete genome.
+0.00 ENA|CP002246|CP002246.1 Yersinia enterocolitica subsp. palearctica 105.5R(r), complete genome.
+0.00 ENA|CP003218|CP003218.1 Klebsiella michiganensis strain KCTC 1686, complete genome.
+0.00 ENA|CP003324|CP003324.1 Mycobacterium intracellulare MOTT-64, complete genome.
+0.00 ENA|AE009950|AE009950.1 Pyrococcus furiosus DSM 3638, complete genome.
+0.00 ENA|CP003877|CP003877.1 Propionibacterium acnes C1, complete genome.
+0.00 ENA|AP006725|AP006725.1 Klebsiella pneumoniae subsp. pneumoniae NTUH-K2044 DNA, complete genome.
+0.00 ENA|CP003293|CP003293.1 Propionibacterium acnes HL096PA1, complete genome.
+0.00 ENA|CP002365|CP002365.1 Lactococcus lactis subsp. lactis CV56, complete genome.
+0.00 ENA|AP012281|AP012281.1 Lactococcus lactis subsp. lactis IO-1 DNA, complete genome.
+0.00 ENA|CP001107|CP001107.1 Eubacterium rectale ATCC 33656, complete genome.
+0.00 ENA|CP003349|CP003349.1 Solitalea canadensis DSM 3403, complete genome.
+0.00 ENA|FP929042|FP929042.1 Eubacterium rectale DSM 17629 draft genome.
+0.00 ENA|CM000748|CM000748.1 Bacillus thuringiensis serovar thuringiensis str. T01001 chromosome, whole genome shotgun sequence.
+0.00 ENA|AP012279|AP012279.1 Bradyrhizobium sp. S23321 DNA, complete genome.
+0.00 ENA|CP001699|CP001699.1 Chitinophaga pinensis DSM 2588, complete genome.
+0.00 ENA|CP003177|CP003177.1 Brucella abortus A13334 chromosome 2, complete sequence.
+0.00 ENA|CP001622|CP001622.1 Rhizobium leguminosarum bv. trifolii WSM1325, complete genome.
+0.00 ENA|CP000494|CP000494.1 Bradyrhizobium sp. BTAi1, complete genome.
+0.00 ENA|CP003652|CP003652.1 Corynebacterium pseudotuberculosis Cp162, complete genome.
+0.00 ENA|CP003338|CP003338.1 Rickettsia australis str. Cutlack, complete genome.
+0.00 ENA|CP002955|CP002955.1 Cyclobacterium marinum DSM 745, complete genome.
+0.00 ENA|CP002097|CP002097.1 Corynebacterium pseudotuberculosis FRC41, complete genome.
+0.00 ENA|CP004889|CP004889.1 Rickettsia prowazekii str. Breinl, complete genome.
+0.00 ENA|CP002213|CP002213.2 Paenibacillus polymyxa SC2, complete genome.
+0.00 ENA|CP003346|CP003346.1 Echinicola vietnamensis DSM 17526, complete genome.
+0.00 ENA|CP001824|CP001824.1 Sphaerobacter thermophilus DSM 20745 chromosome 2, complete sequence.
+0.00 ENA|CP002544|CP002544.1 Odoribacter splanchnicus DSM 20712, complete genome.
+0.00 ENA|CP002859|CP002859.1 Runella slithyformis DSM 19594, complete genome.
+0.00 ENA|CP002006|CP002006.1 Prevotella ruminicola 23, complete genome.
+0.00 ENA|FP929032|FP929032.1 Alistipes shahii WAL 8301 draft genome.
+0.00 ENA|AM236080|AM236080.1 Rhizobium leguminosarum bv. viciae chromosome complete genome, strain 3841
+0.00 ENA|CP000409|CP000409.1 Rickettsia canadensis str. McKiel, complete genome.
+0.00 ENA|CP002530|CP002530.1 Bacteroides salanitronis DSM 18170, complete genome.
+0.00 ENA|CP002305|CP002305.1 Leadbetterella byssophila DSM 17132, complete genome.
+0.00 ENA|CP000099|CP000099.1 Methanosarcina barkeri str. Fusaro, complete genome.
+0.00 ENA|FP236842|FP236842.1 Erwinia pyrifoliae strain Ep1/96 complete chromosome.
+0.00 ENA|CP000518|CP000518.1 Mycobacterium sp. KMS, complete genome.
+0.00 ENA|CR925678|CR925678.1 Ehrlichia ruminantium str. Welgevonden, complete genome.
+0.00 ENA|CU234118|CU234118.1 Bradyrhizobium sp. ORS278,complete sequence.
+0.00 ENA|AE016795|AE016795.3 Vibrio vulnificus CMCP6 chromosome I, complete sequence.
+0.00 ENA|CP003316|CP003316.1 Pyrobaculum oguniense TE7, complete genome.
+0.00 ENA|CP000660|CP000660.1 Pyrobaculum arsenaticum DSM 13514, complete genome.
+0.00 ENA|CP002775|CP002775.1 Serratia sp. AS13, complete genome.
+0.00 ENA|CP003879|CP003879.1 Psychroflexus torquis ATCC 700755, complete genome.
+0.00 ENA|CP002872|CP002872.1 Francisella sp. TX077308, complete genome.
+0.00 ENA|CP002352|CP002352.1 Bacteroides helcogenes P 36-108, complete genome.
+0.00 ENA|CP000937|CP000937.1 Francisella philomiragia subsp. philomiragia ATCC 25017, complete genome.
+0.00 ENA|CP006835|CP006835.1 Mycobacterium kansasii ATCC 12478, complete genome.
+0.00 ENA|CP002453|CP002453.1 Cellulophaga algicola DSM 14237, complete genome.
+0.00 ENA|CU207366|CU207366.1 Gramella forsetii KT0803 complete circular genome.
+0.00 ENA|CP002326|CP002326.1 Caldicellulosiruptor kristjanssonii I77R1B, complete genome.
+0.00 ENA|CP003372|CP003372.1 Natrinema pellirubrum DSM 15624, complete genome.
+0.00 ENA|FQ859183|FQ859183.1 Flavobacterium branchiophilum FL-15, complete genome.
+0.00 ENA|CP003001|CP003001.1 Caldicellulosiruptor lactoaceticus 6A, complete genome.
+0.00 ENA|CP003388|CP003388.1 Riemerella anatipestifer ATCC 11845 = DSM 15868, complete genome.
+0.00 ENA|BA000004|BA000004.3 Bacillus halodurans C-125 DNA, complete genome.
+0.00 ENA|AP011163|AP011163.1 Acetobacter pasteurianus IFO 3283-01-42C DNA, complete genome.
+0.00 ENA|CP000154|CP000154.1 Paenibacillus polymyxa E681, complete genome.
+0.00 ENA|CP003787|CP003787.1 Riemerella anatipestifer RA-CH-1, complete genome.
+0.00 ENA|CP001681|CP001681.1 Pedobacter heparinus DSM 2366, complete genome.
+0.00 ENA|CP003412|CP003412.1 Natrinema sp. J7-2, complete genome.
+0.00 ENA|CP001135|CP001135.1 Edwardsiella tarda EIB202, complete genome.
+0.00 ENA|HE995405|HE995405.1 Sinorhizobium meliloti Rm41 complete genome
+0.00 ENA|CP005928|CP005928.1 Mycobacterium avium subsp. paratuberculosis MAP4, complete genome.
+0.00 ENA|CP000758|CP000758.1 Ochrobactrum anthropi ATCC 49188 chromosome 1, complete sequence.
+0.00 ENA|CP002545|CP002545.1 Pedobacter saltans DSM 12145, complete genome.
+0.00 ENA|CP000254|CP000254.1 Methanospirillum hungatei JF-1, complete genome.
+0.00 ENA|CP001892|CP001892.1 Bifidobacterium animalis subsp. lactis V9, complete genome.
+0.00 ENA|CP000383|CP000383.1 Cytophaga hutchinsonii ATCC 33406, complete genome.
+0.00 ENA|CP002551|CP002551.1 Methanobacterium lacus strain AL-21, complete genome.
+0.00 ENA|FP929050|FP929050.1 Roseburia intestinalis XB6B4 draft genome.
+0.00 ENA|CP000380|CP000380.1 Burkholderia cenocepacia AU 1054 chromosome 3, complete sequence.
+0.00 ENA|CP000492|CP000492.1 Chlorobium phaeobacteroides DSM 266, complete genome.
+0.00 ENA|CP003215|CP003215.1 Corynebacterium diphtheriae HC04, complete genome.
+0.00 ENA|CP003243|CP003243.1 Methanocella conradii HZ254, complete genome.
+0.00 ENA|HE774682|HE774682.1 Flavobacterium indicum GPTSA100-9 complete genome
+0.00 ENA|CP001860|CP001860.1 Haloterrigena turkmenica DSM 5511, complete genome.
+0.00 ENA|CT573326|CT573326.1 Pseudomonas entomophila str. L48 chromosome,complete sequence.
+0.00 ENA|CP002534|CP002534.1 Cellulophaga lytica DSM 7489, complete genome.
+0.00 ENA|CP001932|CP001932.1 Natrialba magadii ATCC 43099, complete genome.
+0.00 ENA|CP001393|CP001393.1 Caldicellulosiruptor bescii DSM 6725, complete genome.
+0.00 ENA|CP001095|CP001095.1 Bifidobacterium longum subsp. infantis ATCC 15697, complete genome.
+0.00 ENA|CP002293|CP002293.1 Geobacillus sp. Y4.1MC1, complete genome.
+0.00 ENA|CP002219|CP002219.1 Caldicellulosiruptor hydrothermalis 108, complete genome.
+0.00 ENA|CP002418|CP002418.1 Rhodopseudomonas palustris DX-1, complete genome.
+0.00 ENA|CP002000|CP002000.1 Amycolatopsis mediterranei U32, complete genome.
+0.00 ENA|FM954972|FM954972.2 Vibrio splendidus LGP32 chromosome 1
+0.00 ENA|AP012057|AP012057.1 Ilumatobacter coccineus YM16-304 DNA, complete genome.
+0.00 ENA|CP002739|CP002739.1 Thermoanaerobacterium xylanolyticum LX-11, complete genome.
+0.00 ENA|CP001638|CP001638.1 Geobacillus sp. WCH70, complete genome.
+0.00 ENA|FP929034|FP929034.1 Bifidobacterium longum subsp. longum F8 draft genome.
+0.00 ENA|CP002542|CP002542.1 Fluviicola taffensis DSM 16823, complete genome.
+0.00 ENA|CP001191|CP001191.1 Rhizobium leguminosarum bv. trifolii WSM2304, complete genome.
+0.00 ENA|AE017197|AE017197.1 Rickettsia typhi str. Wilmington, complete genome.
+0.00 ENA|CP002589|CP002589.1 Prevotella denticola F0289, complete genome.
+0.00 ENA|AP011532|AP011532.1 Methanocella paludicola SANAE DNA, complete genome.
+0.00 ENA|CP000133|CP000133.1 Rhizobium etli CFN 42, complete genome.
+0.00 ENA|CM000855|CM000855.1 Campylobacter jejuni subsp. jejuni 414 chromosome, whole genome shotgun sequence.
+0.00 ENA|CP002952|CP002952.1 Thermococcus sp. AM4, complete genome.
+0.00 ENA|FO082820|FO082820.1 Rhizobium sp. NT-26 chromosome, complete genome.
+0.00 ENA|CP002691|CP002691.1 Haliscomenobacter hydrossis DSM 1100, complete genome.
+0.00 ENA|CP001365|CP001365.1 Halorubrum lacusprofundi ATCC 49239 chromosome 1, complete sequence.
+0.00 ENA|CR936257|CR936257.1 Natronomonas pharaonis DSM 2160 complete genome
+0.00 ENA|CP002839|CP002839.1 Halopiger xanaduensis SH-6, complete genome.
+0.00 ENA|FQ311875|FQ311875.1 Arthrobacter arilaitensis RE117 chromosome, complete sequence.
+0.00 ENA|CP001794|CP001794.1 Geobacillus sp. Y412MC61, complete genome.
+0.00 ENA|AP006840|AP006840.1 Symbiobacterium thermophilum IAM 14863 DNA, complete genome.
+0.00 ENA|CP002455|CP002455.1 Weeksella virosa DSM 16922, complete genome.
+0.00 ENA|CP001710|CP001710.1 Methanothermobacter marburgensis str. Marburg, complete genome.
+0.00 ENA|CP000814|CP000814.1 Campylobacter jejuni subsp. jejuni 81116, complete genome.
+0.00 ENA|CP002535|CP002535.1 Acidianus hospitalis W1, complete genome.
+0.00 ENA|AY596297|AY596297.1 Haloarcula marismortui ATCC 43049 chromosome I, complete sequence.
+0.00 ENA|CP003697|CP003697.1 Corynebacterium halotolerans YIM 70093 = DSM 44683, complete genome.
+0.00 ENA|CP001398|CP001398.1 Thermococcus gammatolerans EJ3, complete genome.
+0.00 ENA|AP006618|AP006618.1 Nocardia farcinica IFM 10152 DNA, complete genome.
+0.00 ENA|AP012204|AP012204.1 Microlunatus phosphovorus NM-1 DNA, complete genome.
+0.00 ENA|BX571963|BX571963.1 Rhodopseudomonas palustris CGA009 complete genome.
+0.00 ENA|CP000855|CP000855.1 Thermococcus onnurineus NA1, complete genome.
+0.00 ENA|CP000699|CP000699.1 Sphingomonas wittichii RW1, complete genome.
+0.00 ENA|BX470250|BX470250.1 Bordetella bronchiseptica strain RB50, complete genome
+0.00 ENA|CP002991|CP002991.1 Thermoanaerobacter wiegelii Rt8.B1, complete genome.
+0.00 ENA|CP005383|CP005383.1 Mannheimia haemolytica M42548, complete genome.
+0.00 ENA|CP000450|CP000450.1 Nitrosomonas eutropha C91, complete genome.
+0.00 ENA|CU458896|CU458896.1 Mycobacterium abscessus ATCC 19977 chromosome, complete sequence.
+0.00 ENA|CP003117|CP003117.1 Methanosaeta harundinacea 6Ac, complete genome.
+0.00 ENA|CP002772|CP002772.1 Methanobacterium paludis strain SWAN1, complete genome.
+0.00 ENA|CP000282|CP000282.1 Saccharophagus degradans 2-40, complete genome.
+0.00 ENA|CP002210|CP002210.1 Thermoanaerobacter sp. X513, complete genome.
+0.00 ENA|CP001836|CP001836.1 Dickeya dadantii Ech586, complete genome.
+0.00 ENA|CP003273|CP003273.1 Desulfotomaculum gibsoniae DSM 7213, complete genome.
+0.00 ENA|CP002529|CP002529.1 Vulcanisaeta moutnovskia 768-28, complete genome.
+0.00 ENA|CP003283|CP003283.1 Ornithobacterium rhinotracheale DSM 15997, complete genome.
+0.00 ENA|CP003740|CP003740.1 Octadecabacter antarcticus 307, complete genome.
+0.00 ENA|CP000362|CP000362.1 Roseobacter denitrificans OCh 114, complete genome.
+0.00 ENA|CP002512|CP002512.1 Aerococcus urinae ACS-120-V-Col10a, complete genome.
+0.00 ENA|CP003101|CP003101.3 Leuconostoc mesenteroides subsp. mesenteroides J18, complete genome.
+0.00 ENA|CP002278|CP002278.1 Methanothermus fervidus DSM 2088, complete genome.
+0.00 ENA|CP003377|CP003377.1 Natronobacterium gregoryi SP2, complete genome.
+0.00 ENA|FN869859|FN869859.1 Thermoproteus tenax Kra 1, complete genome
+0.00 ENA|CP002122|CP002122.1 Prevotella melaninogenica ATCC 25845 chromosome I, complete sequence.
+0.00 ENA|CP003534|CP003534.1 Pyrococcus sp. ST04, complete genome.
+0.00 ENA|CP001014|CP001014.1 Thermoproteus neutrophilus V24Sta, complete genome.
+0.00 ENA|CP001791|CP001791.1 Bacillus selenitireducens MLS10, complete genome.
+0.00 ENA|BA000001|BA000001.2 Pyrococcus horikoshii OT3 DNA, complete genome.
+0.00 ENA|CP003481|CP003481.1 Helicobacter cetorum MIT 99-5656, complete genome.
+0.00 ENA|CP002528|CP002528.1 Krokinobacter sp. 4H-3-7-5, complete genome.
+0.00 ENA|CP001807|CP001807.1 Rhodothermus marinus DSM 4252, complete genome.
+0.00 ENA|AM114193|AM114193.2 Methanocella arvoryzae MRE50 complete genome
+0.00 ENA|CP002028|CP002028.1 Thermincola sp. JR, complete genome.
+0.00 ENA|CP001941|CP001941.1 Aciduliprofundum boonei T469, complete genome.
+0.00 ENA|CP001673|CP001673.1 Flavobacteriaceae bacterium 3519-10, complete genome.
+0.00 ENA|CP002736|CP002736.1 Desulfotomaculum carboxydivorans CO-1-SRB, complete genome.
+0.00 ENA|FP929059|FP929059.1 Eubacterium siraeum V10Sc8a draft genome.
+0.00 ENA|CP003531|CP003531.1 Thermogladius cellulolyticus 1633, complete genome.
+0.00 ENA|CP001140|CP001140.1 Desulfurococcus kamchatkensis 1221n, complete genome.
+0.00 ENA|CP001101|CP001101.1 Chlorobium phaeobacteroides BS1, complete genome.
+0.00 ENA|CP003423|CP003423.1 Fervidicoccus fontis Kam940, complete genome.
+0.00 ENA|CP001939|CP001939.1 Thermosphaera aggregans DSM 11486, complete genome.
+0.00 ENA|AM999887|AM999887.1 Wolbachia endosymbiont of Culex quinquefasciatus Pel strain wPip complete genome
+0.00 ENA|FN806773|FN806773.1 Propionibacterium freudenreichii subsp. shermanii CIRM-BIA1, complete genome
+0.00 ENA|CP000780|CP000780.1 Candidatus Methanoregula boonei 6A8, complete genome.
+0.00 ENA|CP003098|CP003098.1 Pyrobaculum ferrireducens strain 1860, complete genome.
+0.00 ENA|CP002100|CP002100.1 Vulcanisaeta distributa DSM 14429, complete genome.
+0.00 ENA|CP004346|CP004346.1 Bifidobacterium thermophilum RBL67, complete genome.
+0.00 ENA|CP000860|CP000860.1 Candidatus Desulforudis audaxviator MP104C, complete genome.
+0.00 ENA|AE009441|AE009441.1 Pyrobaculum aerophilum str. IM2, complete genome.
+0.00 ENA|CP001899|CP001899.1 Ferroglobus placidus DSM 10642, complete genome.
+0.00 ENA|CP002220|CP002220.1 Bifidobacterium bifidum S17, complete genome.
+0.00 ENA|CP000682|CP000682.1 Metallosphaera sedula DSM 5348, complete genome.
+0.00 ENA|CP001992|CP001992.1 Mobiluncus curtisii ATCC 43063, complete genome.
+0.00 ENA|CR354532|CR354532.1 Photobacterium profundum SS9 chromosome 2
+0.00 ENA|CP005290|CP005290.1 Archaeoglobus sulfaticallidus PM70-1, complete genome.
+0.00 ENA|AE004437|AE004437.1 Halobacterium sp. NRC-1, complete genome.
+0.00 ENA|CP002590|CP002590.1 Thermoproteus uzoniensis 768-20, complete genome.
+0.00 ENA|CP002838|CP002838.1 Pyrolobus fumarii 1A, complete genome.
+0.00 ENA|CP002656|CP002656.1 Metallosphaera cuprina Ar-4, complete genome.
+0.00 ENA|AE017143|AE017143.1 Haemophilus ducreyi strain 35000HP complete genome.
+0.00 ENA|CP002051|CP002051.1 Staphylothermus hellenicus DSM 12710, complete genome.
+0.00 ENA|AE017261|AE017261.1 Picrophilus torridus DSM 9790, complete genome.
+0.00 ENA|CP000743|CP000743.1 Methanococcus aeolicus Nankai-3, complete genome.
+0.00 ENA|CP001696|CP001696.1 Methanocaldococcus fervens AG86, complete genome.
+0.00 ENA|CP001742|CP001742.1 Acidilobus saccharovorans 345-15, complete genome.
+0.00 ENA|CP002916|CP002916.1 Thermoplasmatales archaeon BRNA1, complete genome.
+0.00 ENA|AP008981|AP008981.1 Orientia tsutsugamushi str. Ikeda DNA, complete genome.
+0.00 ENA|CP003884|CP003884.1 Wolbachia endosymbiont of Drosophila simulans wHa, complete genome.
