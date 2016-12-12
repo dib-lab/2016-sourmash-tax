@@ -9,7 +9,7 @@ do
     echo $baseR2
 
     # construct the output filename
-    output=${base/_1/}interleaved.cat.fq.gz
+    output=${base/_1/}.interleaved.cat.fq.gz
 
     interleave-reads.py ${base}.cat.fq.gz ${baseR2}.cat.fq.gz | \
           gzip > $output
